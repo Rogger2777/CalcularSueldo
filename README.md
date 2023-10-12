@@ -8,7 +8,7 @@
 
     - Calcular el sueldo neto que el trabajador recibirá después de aplicar las
       bonificaciones y descuentos.
-### Integrantes:
+# Integrantes:
 
  - Chavez Jimenez Magdalena Del Carmen
  - Curipaco Simon Rogger

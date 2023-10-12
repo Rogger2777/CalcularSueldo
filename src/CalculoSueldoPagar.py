@@ -33,7 +33,7 @@ class CalcularSueldo:
         # Descuento por tardanzas
         descuentoTardanzas = (((remuneracionComputable / 30) / 8) / 60) * self.minutosTardanza
 
-        descuentos = descuentoFaltas - descuentoTardanzas
+        descuentos = descuentoFaltas + descuentoTardanzas
         return descuentos
 
     def calculoSueldoNeto(self):

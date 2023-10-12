@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 <h1 align="center">Aplicacion CalcularSueldo para la empresa "HORIZONTE"</h1>
 

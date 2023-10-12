@@ -1,6 +1,7 @@
 
 <h1 align="center">Aplicacion CalcularSueldo para la empresa "HORIZONTE"</h1>
 ## Aplicacion desarrolado en python:
+
 ## Objetivos del Proyecto: 
     - Desarrollar un programa que realice el cálculo del sueldo a pagar a un
       trabajador de la empresa "Horizonte" siguiendo un conjunto de reglas especificadas en
